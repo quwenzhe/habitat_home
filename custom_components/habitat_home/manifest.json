@@ -1,0 +1,11 @@
+{
+  "codeowners": ["quwenzhe"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/quwenzhe/habitat_home",
+  "domain": "habitat_home",
+  "iot_class": "calculated",
+  "name": "habitat_home",
+  "requirements": [],
+  "version": "1.0.0"
+}
